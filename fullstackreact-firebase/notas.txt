@@ -1,0 +1,18 @@
+1. Creación del firebase project
+-> cuando se loguea se da click a add firebase to yourwebApp
+
+2. FIRESTORE - la base de datos de firebase
+FIREESTORE: es la base de datos: La db tiene una filosofia tipo mongo
+
+CREAR DB
+-> Hacemos click en el panel izquierdo DATABASE
+-> Luego hacemos click en crear database
+-> le damos empezar en Start in test mode
+-> Le asignamos una ubicación
+Luego pasara a un proceso y mostrara un panel
+
+CREAR COLLECTION
+-> Le damos click en start collecition
+-> en el campo que aparece que es collection id: le damos un nombre a la collection
+-> ahora vendriamos a crear nuestro schema... asignando los recpectivos campos:
+  example: mirar foto
